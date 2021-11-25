@@ -1,1 +1,2 @@
 Exemplos para aula 1
+Aprendendo sobre git
