@@ -12,5 +12,5 @@ git verde -> arquivo salvos
 gir status -> ver situaçao do estado do repositório
 echo "Exemplos para aula 1" > anotacoes.txt -> criar nova arquivo
 git add . -> adicionar os arquivos para o commit
-git commit -m "mensagem" -> fazer commit com mensgaem
+git commit (-a addiciona o arquivo) -m "mensagem" -> fazer commit com mensgaem
 git diff -> mostrar as alterações
