@@ -34,6 +34,6 @@ git branch -m novonome -> mudar o nome da branch do momento
 git branch -D desenvolvedor -> apagar a branch sem merge
 git branch -d desenvolvedor -> apagar a branch com merge
 
-git stash -> coloca em pausa o commit, sem que se perca os arquivos 
+git stash -> coloca em pausa o commit, sem que se perca os arquivos (memória do git utilizando)
 
 
