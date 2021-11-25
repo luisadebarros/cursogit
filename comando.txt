@@ -14,3 +14,6 @@ echo "Exemplos para aula 1" > anotacoes.txt -> criar nova arquivo
 git add . -> adicionar os arquivos para o commit
 git commit (-a addiciona o arquivo) -m "mensagem" -> fazer commit com mensgaem
 git diff -> mostrar as alterações
+
+
+.gitignore -> arquivos para ser ignorados (criar um arquivo chamando .gitignore e colocar os diretorios e arquivos a serem ignorados)
