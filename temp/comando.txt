@@ -17,3 +17,12 @@ git diff -> mostrar as alterações
 
 
 .gitignore -> arquivos para ser ignorados (criar um arquivo chamando .gitignore e colocar os diretorios e arquivos a serem ignorados)
+
+git log -> histórico de commits 
+git log --oneline -> histórico de commits (em uma linha)
+
+git reset -> voltar para 
+git reset --soft -> vai voltando 1 versão para o arquivo porém só no repositório local 
+git reset --mixed -> vai voltando 1 versão para o arquivo porém no add e repositório local
+git reset --hard -> vai voltando 1 versão para o arquivo em tudo
+
