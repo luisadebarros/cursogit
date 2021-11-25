@@ -40,3 +40,7 @@ git stash drop stash@{matriznumero} -> elimina o que foi aplicado na lista
 git stash pop -> recorta o arquivo para o repositório local (apply e drop junto)
 
 
+git clone link -> baixar o repositório para a máquina local
+git push -> enviar o repositório para a nuvem
+
+git remote add oringin https://github.com/luisadebarros/cursogit.git -> quando criarmos um repositorio no github depois, ele pega o repositorio já criado na máquina e leva para a nuvem
