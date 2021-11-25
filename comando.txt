@@ -1,0 +1,14 @@
+git init -> inciar o git em uma pasta
+git config -> configurar nome, email, senha etc
+git config --list -> ver configuraçoes salvas
+
+
+em vermelho -> arquivos modificados
+git add -> arquivos adicionadas e protos para subir para o git
+git amarelo -> prontos para serem salvos
+git commit -> salvar  
+git verde -> arquivo salvos
+
+gir status -> ver situaçao do estado do repositório
+echo "Exemplos para aula 1" > anotacoes.txt -> criar nova arquivo
+git add . -> adicionar os arquivos para o commit
