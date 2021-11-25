@@ -27,7 +27,11 @@ git reset --mixed -> vai voltando 1 versão para o arquivo porém no add e repos
 git reset --hard -> vai voltando 1 versão para o arquivo em tudo
 
 git branch nomedabranch -> criar a branch
-git checkout nomedabranch -> mudar para branch
+git checkout nomedabranch -> mudar para branch 
 git branch -> listar branchs
 
-git branch -m novonome
+git branch -m novonome -> mudar o nome da branch do momento
+git branch -D desenvolvedor -> apagar a branch sem merge
+git branch -d desenvolvedor -> apagar a branch com merge
+
+
