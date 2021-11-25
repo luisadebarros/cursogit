@@ -38,3 +38,5 @@ git stash -> coloca em pausa o commit, sem que se perca os arquivos (memória do
 git stash apply -> aplicar o que foi aplicado na lista
 git stash drop stash@{matriznumero} -> elimina o que foi aplicado na lista
 git stash pop -> recorta o arquivo para o repositório local (apply e drop junto)
+
+
