@@ -26,3 +26,8 @@ git reset --soft -> vai voltando 1 versão para o arquivo porém só no reposit�
 git reset --mixed -> vai voltando 1 versão para o arquivo porém no add e repositório local
 git reset --hard -> vai voltando 1 versão para o arquivo em tudo
 
+git branch nomedabranch -> criar a branch
+git checkout nomedabranch -> mudar para branch
+git branch -> listar branchs
+
+git branch -m novonome
